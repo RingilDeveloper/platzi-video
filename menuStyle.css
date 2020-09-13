@@ -184,7 +184,6 @@ ul:hover {
   justify-content:center;
   align-items: center;
   color: white;
-
 }
 .login__container--form{
   width: 320px;
@@ -248,7 +247,10 @@ ul:hover {
   color: white;
   text-decoration: none;
 }
-. .registrate a:hover{
+.registrate a:hover{
   text-decoration: underline;
 }
 
+.height{
+  height: 400px;
+}
